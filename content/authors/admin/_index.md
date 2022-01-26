@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Delong Chen (陈德龙)
+title: Delong Chen
+(陈德龙)
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,7 +40,7 @@ Education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:chendelong#hhu.edu.cn
+  link: mailto:chendelong@hhu.edu.cn
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=7PW095gAAAAJ
@@ -67,6 +68,6 @@ email: "chendelong@hhu.edu.cn"
 highlight_name: true
 ---
 
-De-Long Chen} received the B.S. degree of computer science in Hohai University, Jiangsu, China in 2021. He is currently a  research assistant in Hohai University and a research intern at MEGVII technology. His research includes computer vision, music information retrieval, multimodal learning, unsupervised learning and self-supervised learning.
+De-Long Chen received the B.S. degree of computer science in Hohai University, Jiangsu, China in 2021. He is currently a  research assistant in Hohai University and a research intern at MEGVII technology. His research includes computer vision, music information retrieval, multimodal learning, unsupervised learning and self-supervised learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
