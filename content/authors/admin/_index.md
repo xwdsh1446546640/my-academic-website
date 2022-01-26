@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Delong Chen
-(陈德龙)
+title: Delong Chen (陈德龙)
 
 # Is this the primary user of the site?
 superuser: true
