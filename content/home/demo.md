@@ -1,5 +1,5 @@
 +++
-# A Demo section created with the Blank widget.
+# A Demo section created with the Blank widget. 
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+## 👋 Welcome to the Academic Template (try to do some change)
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
