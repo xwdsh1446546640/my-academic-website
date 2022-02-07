@@ -16,7 +16,7 @@ organizations:
   url: https://en.hhu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include includes computer vision, music information retrieval, multimodal learning, unsupervised learning and self-supervised learning.
+bio: My research interests include computer vision, music information retrieval, multimodal learning, unsupervised learning and self-supervised learning.
 
 # Interests to show in About widget
 Interests:
@@ -66,6 +66,7 @@ email: "chendelong@hhu.edu.cn"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+// --- hugo local develop test --- //
 
 Delong Chen (陈德龙) received the B.S. degree of computer science in Hohai University, Jiangsu, China in 2021. He is currently a  research assistant in Hohai University and a research intern at MEGVII technology. His research includes computer vision, music information retrieval, multimodal learning, unsupervised learning and self-supervised learning.
 
