@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 40
 
 title: Publications
-subtitle: ''
+subtitle: 'A total of 5 published/accepted papers and 3 upcoming working papers (under review).'
 
 content:
   # Filter on criteria
@@ -32,8 +32,13 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
+  # View.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation
   view: Compact
-  columns: '2'
+  columns: '1'
 ---
 
 {{% callout note %}}
