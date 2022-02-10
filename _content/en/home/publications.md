@@ -38,7 +38,7 @@ design:
   #   3 = Card
   #   4 = Citation
   view: Compact
-  columns: '2'
+  columns: '1'
 ---
 
 {{% callout note %}}
