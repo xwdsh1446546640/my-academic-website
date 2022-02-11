@@ -27,11 +27,12 @@ Interests:
 # Education to show in About widget
 Education:
   courses:
+  - course: Gap year
+    year: 2021-2022
+    institution: MEGVII Technology & Hohai University
   - course: BSc in Computer Science
     institution: Hohai University
-    year: 2021
-  - course: Gap year
-    institution: 2021-2022
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -63,7 +64,7 @@ highlight_name: true
 ---
 
 🎓 Delong Chen (陈德龙) received the B.S. degree of computer science in {{< staticref "https://en.hhu.edu.cn/" "newtab" >}}Hohai University{{< /staticref >}}, Jiangsu, China in 2021. 
-Under the supervision of {{< staticref "https://cies.hhu.edu.cn/_s97/2013/0508/c4122a54931/page.psp" "newtab" >}}Prof. Fan Liu{{< /staticref >}}, he published 6 papers during his undergraduate.
+Under the supervision of {{< staticref "https://cies.hhu.edu.cn/_s97/2013/0508/c4122a54931/page.psp" "newtab" >}}Prof. Fan Liu{{< /staticref >}}, he published 5 papers during his undergraduate.
 He is currently a research assistant in Hohai University and a research intern at {{< staticref "https://en.megvii.com/" "newtab" >}}MEGVII technology{{< /staticref >}}. 
 His research includes computer vision, music information retrieval, multimodal learning, unsupervised learning and self-supervised learning. 
 
