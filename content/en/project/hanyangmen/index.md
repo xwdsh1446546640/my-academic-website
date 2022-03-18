@@ -1,8 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: 'Cloud Symphony: Hanyang Gate Garden'
+summary: Organized an 11-university symphony orchestra cloud performance composition, audio mixing, and video editing. <br>Media coverage [Xinhua News Agency (新华社)](https://m.gmw.cn/2020-03/02/content_1301006574.htm), [People's Daily (人民日报)](https://wap.peopleapp.com/video/rmh11875548/rmh11875548)
+
+
 tags:
-- Deep Learning
+- Music
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
