@@ -1,5 +1,5 @@
 ---
-title: "Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion GenerationSelf-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation"
+title: "Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

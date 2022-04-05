@@ -63,7 +63,7 @@ email: "chendelong@hhu.edu.cn"
 highlight_name: true
 ---
 
-🎓 Delong Chen (陈德龙) received the B.S. degree of computer science in {{< staticref "https://en.hhu.edu.cn/" "newtab" >}}Hohai University{{< /staticref >}}, Jiangsu, China in 2021. 
+🔥 Delong Chen (陈德龙) received the B.S. degree of computer science in {{< staticref "https://en.hhu.edu.cn/" "newtab" >}}Hohai University{{< /staticref >}}, Jiangsu, China in 2021. 
 Under the supervision of {{< staticref "https://cies.hhu.edu.cn/_s97/2013/0508/c4122a54931/page.psp" "newtab" >}}Prof. Fan Liu{{< /staticref >}}, he published 5 papers during his undergraduate.
 He is currently a research assistant in Hohai University and a research intern at {{< staticref "https://en.megvii.com/" "newtab" >}}MEGVII technology{{< /staticref >}}. 
 His research includes computer vision, music information retrieval, multimodal learning, unsupervised learning and self-supervised learning. 
@@ -71,6 +71,8 @@ His research includes computer vision, music information retrieval, multimodal l
 🎶 Delong Chen is also passionate about music performance and composition. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}}. 
 He served as the head of the Hohai University Orchestra in 2019-2020. 
 He is also an {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}uploader at bilibili{{< /staticref >}} with more than 20k followers.
+
+🎓 He is currently looking for a Ph.D. starting from 2023 fall.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}
 
