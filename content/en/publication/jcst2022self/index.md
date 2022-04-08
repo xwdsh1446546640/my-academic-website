@@ -78,5 +78,5 @@ This paper is currently accepted by a SCI indexed CCF-B journal JSCT.
 {{% /callout %}}
 
 {{% callout note %}}
-Corresponding author.
+Corresponding author paper.
 {{% /callout %}}
