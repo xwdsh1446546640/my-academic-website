@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Publications
-subtitle: 'A total of 6 published/accepted papers and 6 upcoming working papers (under review).'
+subtitle: 'A total of 7 accepted/published papers and 6 papers under review.'
 
 content:
   # Filter on criteria
