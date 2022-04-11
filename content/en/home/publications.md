@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Publications
-subtitle: 'A total of 7 accepted/published papers'
+subtitle: 'A total of 8 accepted/published papers'
 
 content:
 
@@ -47,11 +47,10 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 
 {{% callout note %}}
-Other 6 papers are under review:
-<br/> 1. Deep Learning based Single Sample Face Recognition: A Survey
-<br/> 2. MEP-3M: A Large-scale Multi-modal E-Commerce Product Dataset
-<br/> 3. Asymmetric Exponential Loss Function for Crack Segmentation
-<br/> 4. A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning
-<br/> 5. Born Again Networks under Self-supervised Label Augmentation for Few-shot Classification
-<br/> 6. 基于动态频域分解的乐队指挥动作生成
+Other 5 papers are under review:
+<br/> **1**. Deep Learning based Single Sample Face Recognition: A Survey
+<br/> **2**. MEP-3M: A Large-scale Multi-modal E-Commerce Product Dataset
+<br/> **3**. A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning
+<br/> **4**. Born Again Networks under Self-supervised Label Augmentation for Few-shot Classification
+<br/> **5**. 基于动态频域分解的乐队指挥动作生成
 {{% /callout %}}
