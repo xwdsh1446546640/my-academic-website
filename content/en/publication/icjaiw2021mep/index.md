@@ -34,7 +34,7 @@ abstract: 'The product categories are vital for the e-commerce platforms due to 
 # Summary. An optional shortened abstract.
 summary:  In this paper, we construct a large-scale Multi-modal E-commerce Products classification dataset MEP-3M, which consists of over 3 million products and 599 fine-grained product categories. <br>This paper won <font color=red>Best Dataset Paper</font> award.
 
-tags: [Multimodal Learning, Computer Vision]
+tags: [Multimodal Learning, Computer Vision, Deep Learning]
 
 # Display this page in the Featured widget?
 featured: true

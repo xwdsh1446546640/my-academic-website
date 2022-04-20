@@ -34,7 +34,7 @@ abstract: 'The pandemic of COVID-19 has caused millions of infections, which has
 
 # Summary. An optional shortened abstract.
 summary: In this paper, we present a systematic review of these diagnosing models. A total of 179 proposed models are involved. <br/>This paper is published by a SCI indexed journal Applied Sciences (impact factor 2.68).
-tags: [Deep Learning, Computer Vision]
+tags: [Deep Learning, Computer Vision, Survey Paper]
 
 # Display this page in the Featured widget?
 featured: true

@@ -34,7 +34,7 @@ abstract: 'The correlation between music and human motion has attracted widespre
 
 # Summary. An optional shortened abstract.
 summary: 'In this paper, we propose a novel Music Motion Synchronized Generative Adversarial Network (M2S-GAN), which generates motions according to the automatically learned music representations. <br/>This paper is currently accepted by a SCI indexed CCF-B journal: _Journal of Computer Science and Technology_.'
-tags: [Music Information Retrieval, Self-supervised Learning]
+tags: [Music Information Retrieval, Self-supervised Learning, Deep Learning, Multimodal Learning]
 
 # Display this page in the Featured widget?
 featured: true

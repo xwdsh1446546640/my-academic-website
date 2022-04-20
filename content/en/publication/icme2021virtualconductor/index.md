@@ -33,7 +33,7 @@ abstract: In this demo, we present the _VirtualConductor_, a system that can gen
 
 # Summary. An optional shortened abstract.
 summary: In this demo, we present the _VirtualConductor_, a system that can generate conducting video from a given piece of music and a single user's image. <br>This demo won the ICME 2021 <font color=red>Best Demo</font> award.
-tags: [Music Information Retrieval, Self-supervised Learning]
+tags: [Music Information Retrieval, Self-supervised Learning, Deep Learning, Multimodal Learning]
 
 # Display this page in the Featured widget?
 featured: true
