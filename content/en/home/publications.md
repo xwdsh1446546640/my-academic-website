@@ -52,5 +52,5 @@ Other 5 papers are under review:
 <br/> **2**. MEP-3M: A Large-scale Multi-modal E-Commerce Product Dataset
 <br/> **3**. A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning
 <br/> **4**. Born Again Networks under Self-supervised Label Augmentation for Few-shot Classification
-<br/> **5**. 基于动态频域分解的乐队指挥动作生成
+<br/> **5**. Prototypical Contrastive Language Image Pretraining
 {{% /callout %}}
