@@ -27,7 +27,7 @@ publishDate: "2021-07-05T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Multimedia and Expo (ICME) 2021, demo track*
+publication: In *IEEE International Conference on Multimedia and Expo (ICME) 2021, demo track*.
 publication_short: In *ICME 2021*
 
 abstract: In traditional cognitive diagnosis models, the representations of students and questions tend to have a high correlation. It results in biases and poor performance in real-world applications. In order to weaken such correlation, we propose a Weakly Correlated Adversarial Learning (WCAL) method. Based on WCAL, we design a cognitive system for both student knowledge state evaluation and exam results prediction which can help teachers select exams suitable for students. The experimental results show the proposed method can effectively model students' knowledge state and help teachers improve the teaching effect. 
@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 
-url_pdf: ''
+url_pdf: 'publication/icme2021weakly/Weakly_Correlated_Adversarial_Learning_for_Cognitive_Diagnosis_System.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,6 +67,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 
 ---

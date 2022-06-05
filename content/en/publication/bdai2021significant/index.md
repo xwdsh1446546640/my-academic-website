@@ -27,7 +27,7 @@ publishDate: "2021-07-02T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 IEEE 4th International Conference on Big Data and Artificial Intelligence (BDAI)*
+publication: In Proceeding of *2021 IEEE 4th International Conference on Big Data and Artificial Intelligence (BDAI)*. [[doi]](https://doi.org/10.1109/BDAI52447.2021.9515293)  [[ArXiv]](https://arxiv.org/abs/2107.09483)
 publication_short: In *BDAI 2021*
 
 abstract: Computational intelligence-based ocean characteristics forecasting applications, such as Significant Wave Height (SWH) prediction, are crucial for avoiding social and economic loss in coastal cities. Compared to the traditional empirical-based or numerical-based forecasting models, "soft computing" approaches, including machine learning and deep learning models, have shown numerous success in recent years. In this paper, we focus on enabling the deep learning model to learn both short-term and long-term spatial-temporal dependencies for SWH prediction. A Wavelet Graph Neural Network (WGNN) approach is proposed to integrate the advantages of wavelet transform and graph neural network. Several parallel graph neural networks are separately trained on wavelet decomposed data, and the reconstruction of each model’s prediction forms the final SWH prediction. Experimental results show that the proposed WGNN approach outperforms other models, including the numerical models, the machine learning models, and several deep learning models.
@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 links: 
 
-url_pdf: 'https://arxiv.org/abs/2107.09483'
+url_pdf: 'publication/bdai2021significant/Significant_Wave_Height_Prediction_based_on_Wavelet_Graph_Neural_Network.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -68,7 +68,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 
 ---
 
@@ -76,4 +76,3 @@ slides: example
 This paper won **BDAI 2021 Best Presentation** award.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
