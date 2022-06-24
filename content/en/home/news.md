@@ -20,7 +20,9 @@ design:
   columns: '1'
 ---
 
-- **2022-03-10**.  One paper [_Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation_](publication/jcst2022self/) is accepted by SCI indexed (CCF-B) journal [Journal of Computer Science and Technology (JCST)](https://www.springer.com/journal/11390). The [ConductorMotion100](https://github.com/ChenDelong1999/VirtualConductor) dataset has been made public as a track of [The 1st Prospective Cup Meta-Intelligent Data Challenge](http://prospective.tocenet.org/)（首届国际“远见杯”元智能数据挑战大赛）hold by [Jiangsu Computer Society](https://www.jscs.org.cn/x1.php?id=770)（江苏省计算机学会）.
+- **2022-06-23**. I finished the paper [_Prototypical Contrastive Language Image Pretraining_](publication/arxiv2022prototypical/) at Megvii Technology. The [[preprint]](https://arxiv.org/abs/2206.10996) and [[codes]](https://github.com/megvii-research/protoclip) are now available. Through the last six months, we developed a prototype-based approach named ProtoCLIP for improved vision language pretraining, which achieved an +5.81% ImageNet linear probing improvement and an +2.01% ImageNet zero-shot classification improvement compared to CLIP.
+<br /><br />
+- **2022-03-10**. Our paper [_Self-Supervised Music Motion Synchronization Learning for Music-Driven Conducting Motion Generation_](publication/jcst2022self/) is accepted by SCI indexed (CCF-B) journal [Journal of Computer Science and Technology (JCST)](https://www.springer.com/journal/11390). The [ConductorMotion100](https://github.com/ChenDelong1999/VirtualConductor) dataset has been made public as a track of [The 1st Prospective Cup Meta-Intelligent Data Challenge](http://prospective.tocenet.org/)（首届国际“远见杯”元智能数据挑战大赛）hold by [Jiangsu Computer Society](https://www.jscs.org.cn/x1.php?id=770)（江苏省计算机学会）.
 <br /><br />
 - **2021-09-22**. I begin to work at [MEGVII Technology](https://megvii.com/) as a research intern. My research project is related to multimodal self-supervised learning and CLIP-style vision-language pretraining.
 <br /><br />

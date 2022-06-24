@@ -47,10 +47,9 @@ Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 
 {{% callout note %}}
-Other 5 papers are under review:
+Other 4 papers are under review:
 <br/> **1**. Deep Learning based Single Sample Face Recognition: A Survey
 <br/> **2**. MEP-3M: A Large-scale Multi-modal E-Commerce Product Dataset
 <br/> **3**. A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning
 <br/> **4**. Born Again Networks under Self-supervised Label Augmentation for Few-shot Classification
-<br/> **5**. Prototypical Contrastive Language Image Pretraining
 {{% /callout %}}
