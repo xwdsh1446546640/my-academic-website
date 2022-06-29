@@ -24,7 +24,7 @@ design:
 - **2022-06.**	江苏省优秀本科毕业论文一等奖 
   <br /> First Class of Outstanding Graduation Thesis of Jiangsu Province.
   <br /><br />
-- 
+
 - **2021-08.**	Best Dataset Paper Award at Long-Tailed Distribution Learning Workshop, IJCAI 2021
   <br /><br />
 
