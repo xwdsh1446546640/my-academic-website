@@ -20,7 +20,7 @@ design:
   columns: '1'
 ---
 
-- **2022-06-29**. My graduation thesis _"Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss"_ 《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》, previously awarded as Outstanding Graduation Thesis of HHU (河海大学优秀毕业论文), is now awarded as the [First Prize of Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀毕业论文一等奖)](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html) !
+- **2022-06-29**. My graduation thesis _"Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss"_ 《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》, previously awarded as Outstanding Graduation Thesis of HHU (河海大学优秀毕业论文), is now awarded as the [First Class of Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀毕业论文一等奖)](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html) !
 <br /><br />
 - **2022-06-23**. I finished the paper [_"Prototypical Contrastive Language Image Pretraining"_](publication/arxiv2022prototypical/) at Megvii Technology. The [[preprint]](https://arxiv.org/abs/2206.10996) and [[codes]](https://github.com/megvii-research/protoclip) are now available. We developed a prototype-based approach named ProtoCLIP for improved vision language pretraining, which achieved an +5.81% ImageNet linear probing improvement and an +2.01% ImageNet zero-shot classification improvement compared to CLIP.
 <br /><br />
