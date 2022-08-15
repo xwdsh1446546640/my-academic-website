@@ -73,7 +73,7 @@ He is also an {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}u
 
 🎓 He is currently looking for a Ph.D. starting from 2023 fall.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (updated at 2022.07.11)
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (updated at 2022.08.15)
 
 {{< icon name="envelope" pack="fas" >}} Email: chendelong@hhu.edu.cn
 
