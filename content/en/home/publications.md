@@ -48,7 +48,6 @@ Quickly discover relevant content by [filtering publications](./publication/).
 
 {{% callout note %}}
 Other several papers are under review:
-<br/> **1**. Deep Learning based Single Sample Face Recognition: A Survey
 <br/> **2**. MEP-3M: A Large-scale Multi-modal E-Commerce Product Dataset
 <br/> **3**. A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning
 {{% /callout %}}
