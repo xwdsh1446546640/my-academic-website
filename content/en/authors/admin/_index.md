@@ -71,7 +71,7 @@ His research includes multimodal deep learning, music information retrieval, uns
 He served as the head of the Hohai University Orchestra in 2019-2020. 
 He is also an {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}uploader at bilibili{{< /staticref >}} with more than 20k followers.
 
-🎓 He is currently looking for a Ph.D. starting from 2023 fall.
+🎓 **He is currently looking for a Ph.D. starting from 2023**.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (updated at 2022.08.15)
 
