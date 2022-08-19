@@ -25,13 +25,13 @@ design:
   <br /> First Class of Outstanding Graduation Thesis of Jiangsu Province.
   <br /><br />
 
-- **2021-08.**	Best Dataset Paper Award at Long-Tailed Distribution Learning Workshop, IJCAI 2021
+- **2021-08.**	Best Dataset Paper Award at _Long-Tailed Distribution Learning Workshop, IJCAI 2021_
   <br /><br />
 
-- **2021-07.**	Best Demo Award at IEEE International Conference on Multimedia and Expo (ICME) 2021
+- **2021-07.**	Best Demo Award at _IEEE International Conference on Multimedia and Expo (ICME) 2021_
   <br /><br />
 
-- **2021-07.**	Best Presentation Winner at 2021 4th International Conference on Big Data and Artificial Intelligence
+- **2021-07.**	Best Presentation Winner at _2021 4th International Conference on Big Data and Artificial Intelligence_
   <br /><br />
 
 - **2021-06.**	河海大学2021届本科优秀毕业设计 
@@ -40,6 +40,10 @@ design:
 
 - **2021-06.** 河海大学2021届本科“优秀毕业生”荣誉称号 
   <br /> 	Excellent Graduate Student of Hohai University <font color='red'>[first class honor, top 1.6%]</font>
+  <br /><br />
+
+- **2021-04.** 2020江苏省大学生网络文化节校园歌曲作品征集一等奖 
+  <br /> 	First Prize in 2020 Campus Music Competition of Jiangsu Province
   <br /><br />
 
 - **2020-05.**	“江苏省优秀共青团员”称号 
