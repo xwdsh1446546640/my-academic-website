@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Accepted by [*Multimedia Systems*](https://www.springer.com/journal/530) <br/> https://doi.org/10.1007/s00530-022-00944-4
-publication_short: To appear on *Multimedia Systems*
+publication_short: In *Multimedia Systems Journal*
 
 abstract: 'Real-time and effective crack detection on public facilities is significant in maintaining the facilities even saving lives. Recent methods mostly explore the impact of model structures but neglect the impact from the loss functions. In this paper, we concentrate on analyzing the loss functions during the training process of crack segmentation tasks and propose an Asymmetric Exponential Loss Function~(AELF) that addresses two key challenges, sample biases and dataset biases. For the sample biases, AELF adopts an exponential loss function, thus can assign higher weights to the "hard" samples, making the models concentrate on the crack details. For the dataset biases, AELF leverages asymmetric protocol to balance the inevitable False Positive and False Negative samples. We conduct extensive experiments on three datasets of road, dam, and wall collected from real scenes. The impressive performances reveal the effectiveness of our proposed Asymmetric Exponential Loss Function.'
 
