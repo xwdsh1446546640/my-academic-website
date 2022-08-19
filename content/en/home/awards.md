@@ -39,7 +39,7 @@ design:
   <br /><br />
 
 - **2021-06.** 河海大学2021届本科“优秀毕业生”荣誉称号 
-  <br /> 	Excellent Graduate Student of Hohai University <font color='red'>[first class honor, top 1.6%]</font>
+  <br /> 	Excellent Graduate Student of Hohai University <font color='red'>[highest honor, top 1.6%]</font>
   <br /><br />
 
 - **2021-04.** 2020江苏省大学生网络文化节校园歌曲作品征集一等奖 
