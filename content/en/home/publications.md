@@ -46,9 +46,3 @@ design:
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 
-{{% callout note %}}
-Other several papers are under review:
-<br/> **1**. MEP-3M: A Large-scale Multi-modal E-Commerce Product Dataset
-<br/> **2**. A Review of Driver Fatigue Detection and Its Advances on the Use of RGB-D Camera and Deep Learning
-<br/> **3** ...
-{{% /callout %}}
