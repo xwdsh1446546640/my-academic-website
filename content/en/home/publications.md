@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Publications
-subtitle: ''
+subtitle: 'sorted by recency'
 
 content:
 
