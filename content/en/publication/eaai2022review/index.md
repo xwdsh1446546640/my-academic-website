@@ -26,14 +26,14 @@ publishDate: "2022-08-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted by [*Engineering Applications of Artificial Intelligence*](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence0), 2022. 
-publication_short: Accepted by *Engineering Applications of Artificial Intelligence*
+publication: In [*Engineering Applications of Artificial Intelligence*](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence0), 2022. [[doi]](https://doi.org/10.1016/j.engappai.2022.105399)
+publication_short: In *Engineering Applications of Artificial Intelligence*
 
 abstract: "Driver fatigue is an essential reason for traffic accidents, which poses a severe threat to people's lives and property. In this review, we summarize the latest research findings and analyze the developmental trends of driver fatigue detection. Firstly, we analyze and discuss four types of different fatigue detection technologies based on driver physiological signals, behavior features, vehicle running features, and information fusion, respectively. Then, we focus on  RGB-D camera and deep learning which are two state-of-the-art solutions in this field. Finally, we present the work on integration of RGB-D camera and deep learning, where Generative Adversarial Networks and multi-channel schemes are utilized to enhance the performance. We conducted experiments to show that the fatigue features extracted by Convolutional Neural Networks are superior to traditional handcrafted ones while single features cannot guarantee robustness. Moreover, the latent fatigue features extracted by deep learning methods have been demonstrated to be effective for fatigue detection."
 
 # Summary. An optional shortened abstract.
 summary: 'In this review, we summarize the latest research findings and analyze the developmental trends of driver fatigue detection. We present the work on integration of RGB-D camera and deep learning, where Generative Adversarial Networks and multi-channel schemes are utilized to enhance the performance.'
-tags: [Deep Learning, Computer Vision, Multimodal Learning]
+tags: [Deep Learning, Computer Vision, Multimodal Learning, Face Analysis]
 
 # Display this page in the Featured widget?
 featured: true
@@ -41,7 +41,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 
-url_pdf: ''
+url_pdf: 'publication/eaai2022review/A review of driver fatigue detection and its advances on the use of RGB-D.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,11 +71,3 @@ projects:
 slides: ""
 
 ---
-
-{{% callout note %}}
-A competition is hold with the ConductorMotion100 dataset proposed in this paper. See [[here]](https://github.com/ChenDelong1999/VirtualConductor) for more details
-{{% /callout %}}
-
-{{% callout note %}}
-Delong Chen is the corresponding author.
-{{% /callout %}}

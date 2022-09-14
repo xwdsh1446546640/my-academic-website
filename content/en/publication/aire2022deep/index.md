@@ -34,7 +34,7 @@ abstract: 'Face recognition has long been an active research area in the field o
 
 # Summary. An optional shortened abstract.
 summary: 'We present a comprehensive survey on Single Sample Per Person (SSPP) Face Recognition.'
-tags: [Deep Learning, Computer Vision]
+tags: [Deep Learning, Computer Vision, Face Analysis]
 
 # Display this page in the Featured widget?
 featured: true
