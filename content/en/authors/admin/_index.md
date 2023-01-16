@@ -70,7 +70,7 @@ Delong Chen (陈德龙) received the BSc degree of computer science in [Hohai Un
 He is currently a research assistant in Hohai University and a research intern at [MEGVII technology](https://en.megvii.com). 
 His research includes multimodal deep learning, music information retrieval, unsupervised learning and self-supervised learning. 
 
-🚀 Delong built open-source codebases: 
+🚀 Delong built open-source codebase: 
 [ITRA](https://github.com/ChenDelong1999/ITRA) ([Doc](https://itra.readthedocs.io)), 
 [VirtualConductor](https://github.com/ChenDelong1999/VirtualConductor), and
 [HH💦Forecasting](https://github.com/ChenDelong1999/HHForecasting).
