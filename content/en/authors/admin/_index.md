@@ -61,17 +61,26 @@ email: "chendelong@hhu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+---
+
 ---
 
 Delong Chen (陈德龙) received the BSc degree of computer science in [Hohai University](https://en.hhu.edu.cn/), Nanjing, China in 2021. 
 He is currently a research assistant in Hohai University and a research intern at [MEGVII technology](https://en.megvii.com). 
 His research includes multimodal deep learning, music information retrieval, unsupervised learning and self-supervised learning. 
 
-🎶 Delong Chen is also passionate about music performance and composition. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}}. 
+🚀 Delong built open-source codebases: 
+[ITRA](https://github.com/ChenDelong1999/ITRA) ([Doc](https://itra.readthedocs.io)), 
+[VirtualConductor](https://github.com/ChenDelong1999/VirtualConductor), and
+[HH💦Forecasting](https://github.com/ChenDelong1999/HHForecasting).
+
+
+🎶 Delong is also passionate about music performance and composition. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}}. 
 He served as the head of the Hohai University Orchestra in 2019-2020. 
 He is also an {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}uploader at bilibili{{< /staticref >}} with more than 20k followers.
 
-🎓 **He is currently looking for a Ph.D. starting from 2023**.
+---
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (updated at 2022.10.05)
 
