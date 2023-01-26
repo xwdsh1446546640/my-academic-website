@@ -67,8 +67,7 @@ highlight_name: true
 ---
 
 Delong Chen (陈德龙) received the BSc degree of computer science in [Hohai University](https://en.hhu.edu.cn/), Nanjing, China in 2021. 
-He is currently a research assistant in Hohai University and a research intern at [MEGVII technology](https://en.megvii.com). 
-His research includes multimodal deep learning, music information retrieval, unsupervised learning and self-supervised learning. 
+He is currently a research assistant in [AIM Group](https://multimodality.group/author/%E9%99%88%E5%BE%B7%E9%BE%99/), Hohai University and a research intern at [MEGVII technology](https://en.megvii.com). His research includes multimodal deep learning, music information retrieval, unsupervised learning and self-supervised learning. 
 
 🚀 Delong built open-source codebase: 
 [ITRA](https://github.com/ChenDelong1999/ITRA) ([Doc](https://itra.readthedocs.io)), 
