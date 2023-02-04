@@ -22,7 +22,7 @@ design:
 
 - **2022-07-08**. Our [comprehensive survey](publication/aire2022deep/) on Deep Learning Based Single Sample Per Person Face Recognition is now published in [*Artificial Intelligence Review*](https://link.springer.com/article/10.1007/s10462-022-10240-2) (Impact Factor=9.588). 
 <br /><br />
-- **2022-06-29**. My graduation thesis _"Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss"_ 《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》, previously awarded as Outstanding Graduation Thesis of HHU (河海大学优秀毕业论文), is now awarded as the [First Class of Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀毕业论文一等奖)](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html) !
+- **2022-06-29**. My graduation thesis _"Music-driven Conducting Motion Generation based on Motion Decomposition and Self-supervised Cross-modal Perceptual Loss"_ [《基于动态频域分解与跨模态感知的乐队指挥动作生成系统》](uploads/陈德龙本科毕业论文_基于动态频域分解与自监督跨模态感知的乐队指挥动作生成.pdf), previously awarded as Outstanding Graduation Thesis of HHU (河海大学优秀毕业论文), is now awarded as the [First Class of Outstanding Graduation Thesis of Jiangsu Province (江苏省优秀毕业论文一等奖)](http://jyt.jiangsu.gov.cn/art/2022/6/29/art_58320_10520413.html) !
 <br /><br />
 - **2022-06-23**. Our paper [_"Prototypical Contrastive Language Image Pretraining"_](publication/arxiv2022prototypical/) is finished at Megvii Technology. The [[preprint]](https://arxiv.org/abs/2206.10996) and [[codes]](https://github.com/megvii-research/protoclip) are now available. We developed a prototype-based approach for improved vision language pretraining, which achieved an +5.81% ImageNet linear probing improvement and an +2.01% ImageNet zero-shot classification improvement compared to CLIP.
 <br /><br />
