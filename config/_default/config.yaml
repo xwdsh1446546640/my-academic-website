@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Delong Chen # Website name
-baseurl: 'https://icme2021virtualconductor.com/' # Website URL
+baseurl: 'https://chendelong.world//' # Website URL
 copyright: '© 2022 Delong Chen' # Footer text, e.g. '© {year} Me'
 
 ############################
