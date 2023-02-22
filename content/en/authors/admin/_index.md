@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Delong Chen
+title: Wu Zhou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Intern & Research Assistant
+role: Postgraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: MEGVII Technology
-  url: https://megvii.com/
+- name: Beijing Electronic Science and Technology Institute
+  url: https://www.besti.edu.cn/
 - name: Hohai University
   url: https://en.hhu.edu.cn/
 
@@ -19,18 +19,17 @@ organizations:
 
 # Interests to show in About widget
 Interests:
-- Computer Vision
 - Music Information Retrieval
-- Multimodal Learning
-- Self-supervised Learning
+- Computer Vision
+- Cryptography
 
 # Education to show in About widget
 Education:
   courses:
-  - course: Gap year
-    year: 2021-2022
-    institution: MEGVII Technology & Hohai University
-  - course: BSc in Computer Science
+  - course: ME in Computer Science
+    year: 2021-
+    institution: Beijing Electronic Science and Technology Institute
+  - course: B.Eng in Computer Science
     institution: Hohai University
     year: 2017-2021
 
@@ -41,13 +40,10 @@ Education:
 social:
 - icon: google-scholar 
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=7PW095gAAAAJ
+  link: https://scholar.google.com.hk/citations?user=4k25BnUAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/ChenDelong1999
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/%E5%BE%B7%E9%BE%99-%E9%99%88-39685615b
+  link: https://github.com/xwdsh1446546640
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -57,7 +53,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "chendelong@hhu.edu.cn"
+email: "zhouwu_nj@126.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -66,22 +62,13 @@ highlight_name: true
 
 ---
 
-Delong Chen (陈德龙) received the BSc degree of computer science in [Hohai University](https://en.hhu.edu.cn/), Nanjing, China in 2021. 
-He is currently a research assistant in [AIM Group](https://multimodality.group), Hohai University and a research intern at [MEGVII technology](https://en.megvii.com). His research includes multimodal deep learning, music information retrieval, unsupervised learning and self-supervised learning. 
+Wu Zhou (周武) received the B.Eng degree of computer science in [Hohai University](https://en.hhu.edu.cn/), Nanjing, China in 2021. 
+He is currently a postgraduate in [Besti Vicory Lab](https://www.victory-lab.net/), Beijing Electronic Science and Technology Institute. His research includes music information retrieval, computer vision and cryptography. 
 
-🚀 Delong built open-source codebase: 
-[ITRA](https://github.com/ChenDelong1999/ITRA) ([Doc](https://itra.readthedocs.io)), 
-[VirtualConductor](https://github.com/ChenDelong1999/VirtualConductor), and
-[HH💦Forecasting](https://github.com/ChenDelong1999/HHForecasting).
-
-
-🎶 Delong is also passionate about music performance and composition. He was awarded a violin performance diploma from the {{< staticref "http://en.ccom.edu.cn/" "newtab" >}}Central Conservatory of Music{{< /staticref >}}. 
-He served as the head of the Hohai University Orchestra in 2019-2020. 
-He is also an {{< staticref "https://space.bilibili.com/291158396" "newtab" >}}uploader at bilibili{{< /staticref >}} with more than 20k followers.
 
 ---
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (updated at 2022.10.05)
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (updated at 2022.10.05)
 
-{{< icon name="envelope" pack="fas" >}} Email: chendelong@hhu.edu.cn
+{{< icon name="envelope" pack="fas" >}} Email: zhouwu_nj@126.com
 
