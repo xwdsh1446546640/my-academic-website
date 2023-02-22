@@ -68,7 +68,6 @@ He is currently a postgraduate in [Besti Vicory Lab](https://www.victory-lab.net
 
 ---
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (updated at 2022.10.05)
 
 {{< icon name="envelope" pack="fas" >}} Email: zhouwu_nj@126.com
 
