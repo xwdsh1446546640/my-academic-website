@@ -44,7 +44,7 @@ featured: true
 links:
 
 url_pdf: ''
-url_code: ''
+url_code: 'publication/ICMR2023/4.pdf'
 url_dataset: ''
 url_poster: ''
 url_project: ''
