@@ -31,6 +31,10 @@ design:
   <br /> 	"Smart Base" Excellent Student Scholarship of Beijing Electronic Science and Technology Institute & Huawei.
   <br /><br />
   
+- **2022-09.**  北京电子科技学院2022年人文素质大赛优秀奖
+  <br /> 	Excellence Award of 2022 Humanities Quality Competition of Beijing Electronic Science and Technology Institute.
+  <br /><br />
+  
 - **2022-09.**  北京电子科技学院研究生一等奖学金
   <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
   <br /><br />
