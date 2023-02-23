@@ -52,7 +52,7 @@ design:
   <br /><br />
   
 - **2021-09.**  北京电子科技学院研究生新生一等奖学金
-  <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
+  <br /> 	First class scholarship for new postgraduate students of Beijing Electronic Science and Technology Institute.
   <br /><br />
 
 - **2021-06.**	河海大学优秀毕业生
