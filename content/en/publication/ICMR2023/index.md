@@ -1,3 +1,4 @@
+
 ---
 title: "An Order-Complexity Aesthetic Assessment Model of Homophony Music Performance"
 
@@ -15,7 +16,7 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2022-2-12T00:00:00Z"
+date: "2022-2-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +26,7 @@ publishDate: []
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: Working paper.
@@ -43,7 +44,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 
-url_pdf: ''
+url_pdf: 'publication/icme2023/2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
