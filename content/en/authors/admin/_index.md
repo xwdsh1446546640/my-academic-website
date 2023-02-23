@@ -20,6 +20,7 @@ organizations:
 # Interests to show in About widget
 Interests:
 - Music Information Retrieval
+- Computational Aesthetics
 - Computer Vision
 - Cryptography
 
