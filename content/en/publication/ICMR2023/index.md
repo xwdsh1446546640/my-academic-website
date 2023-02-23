@@ -6,10 +6,11 @@ title: "An Order-Complexity Aesthetic Assessment Model of Homophony Music Perfor
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Xin Jin
+- admmin
+- Duo Xu
+- Jinyu Wang
 - Yiqing Rong
-- Dongqing Zou
-- admin
-- Xiaokun Zhang
+- Jialin Sun
 
 # Author notes (optional)
 # author_notes:
