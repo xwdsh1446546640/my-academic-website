@@ -1,5 +1,5 @@
 ---
-title: "Image Recoloring for Color Blindness Considering Naturalness and Harmony"
+title: "An Order-Complexity Aesthetic Assessment Model of Homophony Music Performance"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
