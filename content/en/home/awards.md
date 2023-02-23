@@ -19,9 +19,6 @@ date_format: Jan 2006
 design:
   columns: '2'
 ---
-- **2023-03.**  第七届全国密码技术竞赛决赛 (待参加)
-  <br /> 	Final of the 7th National Cryptography Competition (To be attended).
-  <br /><br />
 
 - **2022-12.**	北京电子科技学院网络空间安全系优秀班团干部
   <br /> 	Excellent class leader of the Department of Cyberspace Security, Beijing Electronic Science and Technology Institute.
