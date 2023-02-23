@@ -24,6 +24,14 @@ design:
 - **2022-12.**	北京电子科技学院网络空间安全系优秀班团干部
   <br /> 	Excellent class leader of the Department of Cyberspace Security, Beijing Institute of Electronic Science and Technology.
   <br /><br />
+  
+- **2022-10.**  电科院-华为“智能基座”优秀学生奖学金
+  <br /> 	"Smart Base" Excellent Student Scholarship.
+  <br /><br />
+  
+- **2022-09.**  北京电子科技学院研究生一等奖学金
+  <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
+  <br /><br />
 
 - **2022-08.**	第八届“互联网+”大学生创新创业大赛北京赛区高教主赛道&产业赛道三等奖
   <br /> The third prize of the 8th "Internet plus" College Students Innovation and Entrepreneurship Competition, the main track of the high school in Beijing competition area & the industrial track.
@@ -34,11 +42,15 @@ design:
   <br /><br />
 
 - **2022-04.**  北京电子科技学院第六届编程能力大赛亚军
-  <br /> 	Runner-up of the 6th Programming Ability Competition of Beijing Institute of Electronic Science and Technology.
+  <br /> 	Runner-up of the 6th Programming Ability Competition of Beijing Electronic Science and Technology Institute.
   <br /><br />
 
 - **2021-12.**	第十八届全国研究生数学建模三等奖
   <br /> The third prize of the 18th National Postgraduates Mathematical Modeling Award.
+  <br /><br />
+  
+- **2021-09.**  北京电子科技学院研究生新生一等奖学金
+  <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
   <br /><br />
 
 - **2021-06.**	河海大学优秀毕业生
