@@ -34,8 +34,8 @@ publication_short: []
 abstract: 'There are many existing methods of recoloring images with different effects. However, some problems are still exposed, such as unnatural and discordant colors of the converted objects in the image. To address these issues, we explore a set of methods to achieve image recoloration. Our method enables the resulting images to have the three properties of naturalness, harmonization and distinguishability, thus satisfying the needs of colorblind people. Our method is divided into two parts, one is the recommended palette generation part and the other is the image recoloring part. The former can learn the color distribution of various objects in nature, and the latter can recolor the image in combination with the recommended palette. The results show that our method outperforms the existing methods to a certain extent and deserves further study.'
 
 # Summary. An optional shortened abstract.
-summary: 'This study is divided into two parts, one is the recommended palette generation part and the other is the image recoloring part. The former can learn the color distribution of various objects in nature, and the latter can recolor the image in combination with the recommended palette.'
-tags: [Recoloration, Colorblind, Natural color, Color harmonization]
+summary: 'This study objectively evaluate the aesthetic feeling of performance.'
+tags: [Computational Aesthetics, Music Performance Evaluation, Birkhoff’s Measure, Music Information Retrieval]
 
 # Display this page in the Featured widget?
 featured: true
