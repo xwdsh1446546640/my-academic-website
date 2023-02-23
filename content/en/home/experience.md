@@ -38,7 +38,7 @@ experience:
     location: Beijing
     date_start: '2021-09-01'
     date_end: ''
-    description: Engaged in research related to computer technology, and the research direction is computational music aesthetics.
+    description: Engaged in research related to computer technology, and the current research interest is computational music aesthetics.
 
   - title: Undergraduate
     company: Hohai University (HHU) (河海大学) 
@@ -47,7 +47,7 @@ experience:
     location: Nanjing
     date_start: '2017-09-01'
     date_end: '2021-07-01'
-    description: Received Bachelor of Engineering degree on Computer Science and Technology.
+    description: Received B.Eng degree on Computer Science.
 
   - title: Engineering Practice
     company: China Sport Information Center (CSIC) (国家体育总局信息中心)
@@ -56,7 +56,7 @@ experience:
     location: Wuhan
     date_start: '2019-08-22'
     date_end: '2019-10-22'
-    description: Served as the arbitration video engineer of the 7th CISM Military World Games (世界第七届军人运动会仲裁录像工程师).
+    description: Served as the arbitration video engineer of the 7th CISM Military World Games (世界第七届军人运动会).
     
 design:
   columns: '2'
