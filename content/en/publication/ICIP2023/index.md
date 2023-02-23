@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 
-url_pdf: 'publication/ICIP2023/3.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
