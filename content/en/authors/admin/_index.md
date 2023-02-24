@@ -28,7 +28,7 @@ Interests:
 # Education to show in About widget
 Education:
   courses:
-  - course: ME in Computer Science
+  - course: ME in Computer Technology
     year: 2021-
     institution: Beijing Electronic Science and Technology Institute
   - course: B.S. in Computer Science and Technology
