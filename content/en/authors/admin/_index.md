@@ -30,7 +30,7 @@ Education:
   - course: ME in Computer Science
     year: 2021-
     institution: Beijing Electronic Science and Technology Institute
-  - course: B.Eng in Computer Science
+  - course: B.S. in Computer Science
     institution: Hohai University
     year: 2017-2021
 
@@ -63,7 +63,7 @@ highlight_name: true
 
 ---
 
-Wu Zhou (周武) received the B.Eng degree of computer science in [Hohai University](https://en.hhu.edu.cn/), Nanjing, China in 2021. 
+Wu Zhou (周武) received the B.S. degree of computer science in [Hohai University](https://en.hhu.edu.cn/), Nanjing, China in 2021. 
 He is currently a postgraduate in [Besti Vicory Lab](https://www.victory-lab.net/), Beijing Electronic Science and Technology Institute. His tutor is Professor [Xin Jin](https://jinxin.me/). At present, he serves as the leader of the academic & practice department of BESTI postgraduates' union (北京电子科技学院研究生会学术实践部部长). His research includes music information retrieval, computational aesthetics, computer vision and cryptography. 
 
 🎶 Wu Zhou is also a music enthusiast. He has a level 10 amateur violin certificate (业余小提琴十级). He participated in the Hohai University Orchestra (河海大学管弦乐团) (2017-2019), and served as the office director of Hohai University Art Troupe (河海大学大学生艺术团办公室主任) (2018-2019).
