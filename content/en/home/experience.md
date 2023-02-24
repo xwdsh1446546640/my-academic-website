@@ -38,7 +38,7 @@ experience:
     location: Beijing
     date_start: '2021-09-01'
     date_end: ''
-    description: Engaged in research related to computer technology, and the current research interest is computational music aesthetics.
+    description: Engaged in research related to computational aesthetics.
 
   - title: Engineering Practice
     company: China Sport Information Center (CSIC) (国家体育总局信息中心)
