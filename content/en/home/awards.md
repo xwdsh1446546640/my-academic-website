@@ -32,10 +32,6 @@ design:
   <br /> The third prize of the 8th "Internet plus" College Students Innovation and Entrepreneurship Competition, the main track of the high school in Beijing competition area & the industrial track.
   <br /><br />
 
-- **2022-04.**  工业与信息化部第十三届“蓝桥杯”北京赛区二等奖 
-  <br /> 	The second prize of the 13th "Blue Bridge Cup" Beijing competition area of the Ministry of Industry and Information Technology.
-  <br /><br />
-
 - **2022-04.**  北京电子科技学院第六届编程能力大赛亚军
   <br /> 	Runner-up of the 6th Programming Ability Competition of Beijing Electronic Science and Technology Institute.
   <br /><br />
