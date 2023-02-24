@@ -6,7 +6,7 @@ title: Wu Zhou
 superuser: true
 
 # Role/position/tagline
-role: Postgraduate
+role: Postgraduate & Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
