@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wu Zhou （周武）
+title: Wu Zhou ( 周 武 )
 
 # Is this the primary user of the site?
 superuser: true
