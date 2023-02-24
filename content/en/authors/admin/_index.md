@@ -34,7 +34,7 @@ Education:
   - course: B.S. in Computer Science and Technology
     institution: Hohai University
     year: 2017-2021
-  - course: Science Elite Class
+  - course: Elite Class
     institution: Nanjing Zhonghua High School
     year: 2014-2017
 
