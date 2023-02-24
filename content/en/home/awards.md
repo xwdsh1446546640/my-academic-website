@@ -60,10 +60,6 @@ design:
   <br /> Outstanding Communist Youth League member of Hohai University.
   <br /><br />
 
-- **2018-11.**  河海大学艺术体育奖学金
-  <br /> Art and Sports Scholarship of Hohai University.
-  <br /><br />
-
 - **2017-12.**	河海大学第十三届新秀盛典冠军
   <br /> The champion of the 13th Rookie Festival of Hohai University. Dec. 2017
   <br /><br />
