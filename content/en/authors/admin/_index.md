@@ -14,8 +14,6 @@ organizations:
   url: https://www.besti.edu.cn/
 - name: Hohai University
   url: https://en.hhu.edu.cn/
-- name: Nanjing Zhonghua High School
-  url: http://www.njzhzx.net/
 
 # Short bio (displayed in user profile at end of posts)
 
