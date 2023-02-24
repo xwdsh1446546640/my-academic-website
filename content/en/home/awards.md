@@ -28,10 +28,6 @@ design:
   <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
   <br /><br />
 
-- **2022-08.**	第八届“互联网+”大学生创新创业大赛北京赛区高教主赛道&产业赛道三等奖
-  <br /> The third prize of the 8th "Internet plus" College Students Innovation and Entrepreneurship Competition, the main track of the high school in Beijing competition area & the industrial track.
-  <br /><br />
-
 - **2022-04.**  北京电子科技学院第六届编程能力大赛亚军
   <br /> 	Runner-up of the 6th Programming Ability Competition of Beijing Electronic Science and Technology Institute.
   <br /><br />
