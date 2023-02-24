@@ -21,7 +21,7 @@ organizations:
 Interests:
 - Music Information Retrieval
 - Computational Aesthetics
-- Computer Vision Style Transfer
+- Computer Vision
 - Multimodal Learning
 - Cryptography & Information Security
 
