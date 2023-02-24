@@ -33,7 +33,7 @@ design:
   <br /><br />
 
 - **2021-12.**	第十八届全国研究生数学建模三等奖
-  <br /> The third prize of the 18th National Postgraduates Mathematical Modeling Award.
+  <br /> The third prize of the 18th China Postgraduates Mathematical Modeling Award.
   <br /><br />
 
 - **2021-06.**	河海大学优秀毕业生
