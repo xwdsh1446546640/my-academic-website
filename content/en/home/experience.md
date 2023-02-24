@@ -47,7 +47,7 @@ experience:
     location: Nanjing
     date_start: '2017-09-01'
     date_end: '2021-07-01'
-    description: Received B.Eng degree on Computer Science.
+    description: Received B.S. degree on Computer Science.
 
   - title: Engineering Practice
     company: China Sport Information Center (CSIC) (国家体育总局信息中心)
