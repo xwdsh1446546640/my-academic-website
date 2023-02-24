@@ -29,14 +29,14 @@ Interests:
 Education:
   courses:
   - course: M.Eng. in Computer Technology
-    year:  2021-
+    year: 2021-
     institution: Beijing Electronic Science and Technology Institute
   - course: B.S. in Computer Science and Technology
     institution: Hohai University
-    year:  2017-2021
+    year: 2017-2021
   - course: Elite Class of Science
     institution: Nanjing Zhonghua High School
-    year:  2014-2017
+    year: 2014-2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
