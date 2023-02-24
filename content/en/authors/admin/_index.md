@@ -21,7 +21,8 @@ organizations:
 Interests:
 - Music Information Retrieval
 - Computational Aesthetics
-- Computer Vision
+- Computer Vision Style Transfer
+- Multimodal Learning
 - Cryptography
 
 # Education to show in About widget
@@ -33,6 +34,9 @@ Education:
   - course: B.S. in Computer Science and Technology
     institution: Hohai University
     year: 2017-2021
+  - course: Elite Class
+    institution: Nanjing Zhonghua High School
+    year: 2014-2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,7 +68,7 @@ highlight_name: true
 ---
 
 Wu Zhou (周武) received the B.S. degree of computer science in [Hohai University](https://en.hhu.edu.cn/) in 2021. 
-He is currently a postgraduate in [Besti Vicory Lab](https://www.victory-lab.net/), Beijing Electronic Science and Technology Institute. His tutor is Professor [Xin Jin](https://jinxin.me/) (金鑫). At present, he serves as the leader of the academic & practice department of BESTI postgraduates' union (北京电子科技学院研究生会学术实践部部长). His research includes music information retrieval, computational aesthetics, computer vision and cryptography. 
+He is currently a postgraduate in [Besti Vicory Lab](https://www.victory-lab.net/), Beijing Electronic Science and Technology Institute. His tutor is Professor [Xin Jin](https://jinxin.me/) (金鑫). At present, he serves as the leader of the academic & practice department of BESTI postgraduates' union (北京电子科技学院研究生会学术实践部部长). His research includes music information retrieval, computational aesthetics, and cryptography. 
 
 🎶 Wu Zhou is also a music enthusiast. He has a level 10 amateur violin certificate (业余小提琴十级). He participated in the Hohai University Orchestra (河海大学管弦乐团) (2017-2019), and served as the office director of Hohai University Art Troupe (河海大学大学生艺术团办公室主任) (2018-2019).
 
