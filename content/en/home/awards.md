@@ -51,10 +51,6 @@ design:
 - **2021-06.**	河海大学优秀毕业生
   <br /> Outstanding graduates of Hohai University. Jun. 2021
   <br /><br />
-
-- **2019-10.**  河海大学大学生志愿者暑期文化社会实践活动优秀团队
-  <br /> Excellent team of Hohai University college student volunteers in summer cultural and social practice activities.
-  <br /><br />
   
 - **2019-06.**  河海大学优秀共青团员
   <br /> Outstanding Communist Youth League member of Hohai University.
