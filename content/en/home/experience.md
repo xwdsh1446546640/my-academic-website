@@ -40,6 +40,15 @@ experience:
     date_end: ''
     description: Engaged in research related to computer technology, and the current research interest is computational music aesthetics.
 
+  - title: Engineering Practice
+    company: China Sport Information Center (CSIC) (国家体育总局信息中心)
+    company_url: 'https://www.sport.gov.cn/xxzx/'
+    company_logo: ''
+    location: Wuhan
+    date_start: '2019-08-22'
+    date_end: '2019-10-22'
+    description: Served as the arbitration video engineer of the 7th CISM Military World Games (世界第七届军人运动会).
+
   - title: Undergraduate
     company: Hohai University (HHU) (河海大学) 
     company_url: 'https://en.hhu.edu.cn/'
@@ -49,15 +58,7 @@ experience:
     date_end: '2021-07-01'
     description: Received B.S. degree in Computer Science and Technology.
 
-  - title: Engineering Practice
-    company: China Sport Information Center (CSIC) (国家体育总局信息中心)
-    company_url: 'https://www.sport.gov.cn/xxzx/'
-    company_logo: ''
-    location: Wuhan
-    date_start: '2019-08-22'
-    date_end: '2019-10-22'
-    description: Served as the arbitration video engineer of the 7th CISM Military World Games (世界第七届军人运动会).
-    
+
 design:
   columns: '2'
 ---
