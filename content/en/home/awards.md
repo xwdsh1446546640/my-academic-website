@@ -39,10 +39,6 @@ design:
 - **2021-12.**	第十八届全国研究生数学建模三等奖
   <br /> The third prize of the 18th National Postgraduates Mathematical Modeling Award.
   <br /><br />
-  
-- **2021-09.**  北京电子科技学院研究生新生一等奖学金
-  <br /> 	First class scholarship for new postgraduate students of Beijing Electronic Science and Technology Institute.
-  <br /><br />
 
 - **2021-06.**	河海大学优秀毕业生
   <br /> Outstanding graduates of Hohai University. Jun. 2021
