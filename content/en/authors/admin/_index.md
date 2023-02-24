@@ -23,8 +23,7 @@ Interests:
 - Computational Aesthetics
 - Computer Vision Style Transfer
 - Multimodal Learning
-- Cryptography
-- Information Security
+- Cryptography & Information Security
 
 # Education to show in About widget
 Education:
