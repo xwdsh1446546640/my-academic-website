@@ -30,7 +30,7 @@ Education:
   - course: ME in Computer Science
     year: 2021-
     institution: Beijing Electronic Science and Technology Institute
-  - course: B.S. in Computer Science
+  - course: B.S. in Computer Science and Technology
     institution: Hohai University
     year: 2017-2021
 
