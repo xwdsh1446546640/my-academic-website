@@ -20,9 +20,7 @@ organizations:
 # Interests to show in About widget
 Interests:
 - Music Information Retrieval
-- Computational Aesthetics
 - Computer Vision
-- Multimodal Learning
 - Cryptography & Information Security
 
 # Education to show in About widget
@@ -34,9 +32,6 @@ Education:
   - course: B.S. in Computer Science and Technology
     institution: Hohai University
     year: 2017—2021
-  - course: Elite Class of Science
-    institution: Nanjing Zhonghua High School
-    year: 2014—2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
