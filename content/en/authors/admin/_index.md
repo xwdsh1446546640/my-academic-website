@@ -42,10 +42,7 @@ Education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: google-scholar 
-  icon_pack: ai
-  link: https://scholar.google.com.hk/citations?user=4k25BnUAAAAJ&hl=zh-CN
+social: []
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
