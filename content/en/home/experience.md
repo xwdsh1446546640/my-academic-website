@@ -40,7 +40,7 @@ experience:
     date_end: ''
     description: Engaged in research related to computational aesthetics.
 
-  - title: Engineering Practice
+  - title: Technical Engineer 
     company: China Sport Information Center (CSIC) (国家体育总局信息中心)
     company_url: 'https://www.sport.gov.cn/xxzx/'
     company_logo: ''
