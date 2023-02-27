@@ -14,6 +14,8 @@ organizations:
   url: https://www.mybigai.ac.cn/
 - name: Beijing Electronic Science and Technology Institute
   url: https://www.besti.edu.cn/
+- name: China Sport Information Center
+  url: https://www.sport.gov.cn/xxzx/
 - name: Hohai University
   url: https://en.hhu.edu.cn/
 
