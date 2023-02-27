@@ -10,6 +10,8 @@ role: Postgraduate & Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Beijing Institute for General Artificial Intelligence
+  url: https://www.mybigai.ac.cn/
 - name: Beijing Electronic Science and Technology Institute
   url: https://www.besti.edu.cn/
 - name: Hohai University
