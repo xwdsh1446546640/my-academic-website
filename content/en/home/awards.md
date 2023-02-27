@@ -35,10 +35,6 @@ design:
 - **2021-12.**  第十八届“华为杯”全国研究生数学建模三等奖
   <br /> 	The third prize of the 18th "Huawei Cup" China Postgraduate Mathematical Modeling Award.
   <br /><br />
-
-- **2021-06.**	河海大学优秀毕业生
-  <br /> Outstanding graduates of Hohai University. Jun. 2021
-  <br /><br />
   
 - **2019-06.**  河海大学优秀共青团员
   <br /> Outstanding Communist Youth League member of Hohai University.
