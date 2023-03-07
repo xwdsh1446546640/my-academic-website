@@ -45,7 +45,7 @@ design:
   <br /><br />
 
 -	河海大学新秀盛典冠军
-  <br /> Champion of Hohai University Freshman Competition. Dec. 2017
+  <br /> Champion of Hohai University Freshman Art Competition. Dec. 2017
   <br /><br />
 
 
