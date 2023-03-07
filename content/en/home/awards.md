@@ -32,7 +32,7 @@ design:
   <br /> 	Bronze Award in “Internet Plus” (Beijing Area / Main Track & Industrial Track)
   <br /><br />
   
-- **北京电子科技学院研究生一等奖学金** **(GPA: 4.23 / 5)** 
+- **北京电子科技学院研究生一等奖学金 GPA: 4.23 / 5** 
   <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
   <br /><br />
   
@@ -44,7 +44,7 @@ design:
   <br /> 	Runner-up of Programming Ability Competition of Beijing Electronic Science and Technology Institute.
   <br /><br />
   
-- **河海大学优秀毕业生** **(GPA: 4.25 / 5)**
+- **河海大学优秀毕业生 GPA: 4.25 / 5**
   <br /> Outstanding Graduate of Hohai University.
   <br /><br />
   
