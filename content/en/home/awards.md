@@ -32,8 +32,8 @@ design:
   <br /> 	Runner-up of the 6th Programming Ability Competition of Beijing Electronic Science and Technology Institute.
   <br /><br />
   
-- **2021-12.**  第十八届“华为杯”全国研究生数学建模三等奖
-  <br /> 	The third prize of the 18th "Huawei Cup" China Postgraduate Mathematical Modeling Award.
+- **2021-12.**  第十八届全国研究生数学建模三等奖
+  <br /> 	The third prize of the 18th China Postgraduate Mathematical Modeling Award.
   <br /><br />
   
 - **2021-06.**  河海大学优秀毕业生
