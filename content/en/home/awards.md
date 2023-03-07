@@ -36,7 +36,7 @@ design:
   <br /> 	The third prize of the 18th "Huawei Cup" China Postgraduate Mathematical Modeling Award.
   <br /><br />
   
-- **2019-06.**  河海大学优秀共青团员
+- **2021-06.**  河海大学优秀毕业生
   <br /> Outstanding Communist Youth League member of Hohai University.
   <br /><br />
 
