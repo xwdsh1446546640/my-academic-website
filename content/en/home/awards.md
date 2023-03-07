@@ -28,8 +28,8 @@ design:
   <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
   <br /><br />
 
-- 北京电子科技学院第六届编程能力大赛亚军
-  <br /> 	Runner-up of the 6th Programming Ability Competition of Beijing Electronic Science and Technology Institute.
+- 北京电子科技学院编程能力大赛亚军
+  <br /> 	Runner-up of Programming Ability Competition of Beijing Electronic Science and Technology Institute.
   <br /><br />
   
 - 全国研究生数学建模三等奖
