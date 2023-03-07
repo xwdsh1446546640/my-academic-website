@@ -20,31 +20,31 @@ design:
   columns: '2'
 ---
   
-- 北京电子科技学院-华为“智能基座”优秀学生奖学金
+- **北京电子科技学院-华为“智能基座”优秀学生奖学金**
   <br /> 	"Smart Base" Excellent Student Scholarship of Beijing Electronic Science and Technology Institute & Huawei.
   <br /><br />
   
-- 北京电子科技学院研究生一等奖学金
+- **北京电子科技学院研究生一等奖学金**
   <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
   <br /><br />
 
-- 北京电子科技学院编程能力大赛亚军
+- **北京电子科技学院编程能力大赛亚军**
   <br /> 	Runner-up of Programming Ability Competition of Beijing Electronic Science and Technology Institute.
   <br /><br />
   
-- 全国研究生数学建模三等奖
+- **全国研究生数学建模三等奖**
   <br /> 	The third prize of China Postgraduate Mathematical Modeling Award.
   <br /><br />
   
-- 河海大学优秀毕业生
+- **河海大学优秀毕业生**
   <br /> Outstanding Graduate of Hohai University.
   <br /><br />
   
-- 河海大学优秀共青团员
+- **河海大学优秀共青团员**
   <br /> Outstanding Communist Youth League member of Hohai University.
   <br /><br />
 
--	河海大学新秀盛典冠军
+-	**河海大学新秀盛典冠军**
   <br /> Champion of Hohai University Freshman Art Competition.
   <br /><br />
 
