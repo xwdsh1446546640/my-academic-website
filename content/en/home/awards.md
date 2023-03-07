@@ -24,12 +24,12 @@ design:
   <br /> 	The third prize of China Postgraduate Mathematical Modeling Award.
   <br /><br />
   
-- **“互联网+” 主赛道&产业赛道 北京赛区铜奖**
-  <br /> 	Bronze Award in “Internet Plus” (Beijing Area / Main Track & Industrial Track)
-  <br /><br />
-  
 - **全国软件和信息技术专业人才大赛 研究生组C/C++ 北京赛区二等奖**
   <br /> 	The second prize of China Software and Information Technology Professionals Competition (Beijing Area / Postgraduate Group C/C++).
+  <br /><br />
+  
+- **“互联网+” 主赛道&产业赛道 北京赛区铜奖**
+  <br /> 	Bronze Award in “Internet Plus” (Beijing Area / Main Track & Industrial Track)
   <br /><br />
   
 - **北京电子科技学院-华为“智能基座”优秀学生奖学金**
