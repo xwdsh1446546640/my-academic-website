@@ -40,7 +40,7 @@ design:
   <br /> Outstanding Communist Youth League member of Hohai University.
   <br /><br />
   
-- ** **  河海大学优秀共青团员
+- 河海大学优秀共青团员
   <br /> Outstanding Communist Youth League member of Hohai University.
   <br /><br />
 
