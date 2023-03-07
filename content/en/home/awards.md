@@ -32,16 +32,20 @@ design:
   <br /> 	Runner-up of the 6th Programming Ability Competition of Beijing Electronic Science and Technology Institute.
   <br /><br />
   
-- **2021-12.**  第十八届全国研究生数学建模三等奖
-  <br /> 	The third prize of the 18th China Postgraduate Mathematical Modeling Award.
+- **2021-12.**  全国研究生数学建模三等奖
+  <br /> 	The third prize of China Postgraduate Mathematical Modeling Award.
   <br /><br />
   
 - **2021-06.**  河海大学优秀毕业生
   <br /> Outstanding Communist Youth League member of Hohai University.
   <br /><br />
+  
+- ** **  河海大学优秀共青团员
+  <br /> Outstanding Communist Youth League member of Hohai University.
+  <br /><br />
 
-- **2017-12.**	河海大学第十三届新秀盛典冠军
-  <br /> The champion of the 13th Rookie Festival of Hohai University. Dec. 2017
+- **2017-12.**	河海大学新秀盛典冠军
+  <br /> Champion of Hohai University Freshman Competition. Dec. 2017
   <br /><br />
 
 
