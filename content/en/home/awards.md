@@ -32,7 +32,7 @@ design:
   <br /> 	Bronze Award in “Internet Plus” (Beijing Area / Main Track & Industrial Track)
   <br /><br />
   
-- **北京电子科技学院研究生一等奖学金 (Average Score: 92.25)** 
+- **北京电子科技学院研究生一等奖学金 (Average Grade: 92.25)** 
   <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
   <br /><br />
   
