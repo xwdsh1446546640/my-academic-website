@@ -24,8 +24,8 @@ design:
   <br /> 	The third prize of China Postgraduate Mathematical Modeling Award.
   <br /><br />
   
-- **全国软件和信息技术专业人才大赛 研究生组C/C++ 北京赛区二等奖**
-  <br /> 	The second prize of China Software and Information Technology Professionals Competition (Beijing Area / Postgraduate Group C/C++).
+- **全国软件和信息技术专业人才大赛 研究生组C/C++程序设计 北京赛区二等奖**
+  <br /> 	The second prize of China Software and Information Technology Professionals Competition (Beijing Area / Postgraduate Group C/C++ Programming).
   <br /><br />
   
 - **“互联网+” 主赛道&产业赛道 北京赛区铜奖**
