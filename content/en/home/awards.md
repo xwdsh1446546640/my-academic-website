@@ -29,11 +29,11 @@ design:
   <br /><br />
   
 - **全国软件和信息技术专业人才大赛 研究生组C/C++程序设计 北京赛区二等奖**
-  <br /> 	The second prize of China Software and Information Technology Professionals Competition (Beijing Area / Postgraduate Group C/C++ Programming).
+  <br /> 	The second prize of China Software and Information Technology Professionals Competition (Postgraduate Group C/C++ Programming / Beijing Area).
   <br /><br />
   
 - **“互联网+” 主赛道&产业赛道 北京赛区铜奖**
-  <br /> 	Bronze Award in “Internet Plus” (Beijing Area / Main Track & Industrial Track)
+  <br /> 	Bronze Award in “Internet Plus” (Main Track & Industrial Track / Beijing Area)
   <br /><br />
   
 - **北京电子科技学院研究生一等奖学金 (总加权平均成绩: 92.25)** 
