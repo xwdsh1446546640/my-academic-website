@@ -20,6 +20,10 @@ design:
   columns: '2'
 ---
 
+- **全国密码技术竞赛 (晋级决赛)**
+  <br /> 	China Cryptography Competition (Advanced to the Final).
+  <br /><br />
+
 - **全国研究生数学建模三等奖**
   <br /> 	The third prize of China Postgraduate Mathematical Modeling Award.
   <br /><br />
@@ -33,7 +37,7 @@ design:
   <br /><br />
   
 - **北京电子科技学院研究生一等奖学金 (总加权平均成绩: 92.25)** 
-  <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
+  <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute (Average Grade: 92.25).
   <br /><br />
   
 - **北京电子科技学院-华为“智能基座”优秀学生奖学金**
@@ -45,7 +49,7 @@ design:
   <br /><br />
   
 - **河海大学优秀毕业生 (GPA: 4.25 / 5)**
-  <br /> Outstanding Graduate of Hohai University.
+  <br /> Outstanding Graduate of Hohai University (GPA: 4.25 / 5).
   <br /><br />
   
 - **河海大学优秀共青团员**
