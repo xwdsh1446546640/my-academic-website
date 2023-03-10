@@ -36,8 +36,8 @@ design:
   <br /> 	Bronze Award in “Internet Plus” (Main Track & Industrial Track / Beijing Area)
   <br /><br />
   
-- **北京电子科技学院研究生一等奖学金 (总加权平均成绩: 92.25)** 
-  <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute (Average Grade: 92.25).
+- **北京电子科技学院研究生一等奖学金 (研究生平均成绩: 92.25)** 
+  <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute (Average Grade of Postgraduate: 92.25).
   <br /><br />
   
 - **北京电子科技学院-华为“智能基座”优秀学生奖学金**
@@ -48,8 +48,8 @@ design:
   <br /> 	Runner-up of Programming Ability Competition of the 6th Beijing Electronic Science and Technology Institute.
   <br /><br />
   
-- **河海大学优秀毕业生 (GPA: 4.25 / 5)**
-  <br /> Outstanding Graduate of Hohai University (GPA: 4.25 / 5).
+- **河海大学优秀毕业生 (本科GPA: 4.25 / 5)**
+  <br /> Outstanding Graduate of Hohai University (GPA of Undergraduate: 4.25 / 5).
   <br /><br />
   
 - **河海大学优秀共青团员**
