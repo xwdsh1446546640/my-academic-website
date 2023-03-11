@@ -44,6 +44,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/xwdsh1446546640
+- icon: envelope
+  icon_pack: fas
+  link: mailto:zhouwu_nj@126.com
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
