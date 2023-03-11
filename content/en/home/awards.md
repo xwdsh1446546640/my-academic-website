@@ -55,6 +55,11 @@ design:
 - **河海大学优秀共青团员**
   <br /> Outstanding Communist Youth League Member of Hohai University.
   <br /><br />
+  
+- **河海大学第十三届新秀冠军**
+  <br /> The Champion of the 13th Freshman Art Competition in Hohai University.
+  <br /><br />
+  
 
 
 
