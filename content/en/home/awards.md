@@ -56,7 +56,7 @@ design:
   <br /> Outstanding Communist Youth League Member of Hohai University.
   <br /><br />
   
-- **河海大学新秀风采大赛冠军**
+- **河海大学新秀盛典冠军**
   <br /> The Champion of Freshman Art Competition in Hohai University.
   <br /><br />
   
