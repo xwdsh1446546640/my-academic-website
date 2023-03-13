@@ -47,9 +47,9 @@ url_pdf: 'publication/icme2023/2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'publication/icme2023/Supplementary Material_ICME2023.zip'
+url_project: 'p'
 url_slides: ''
-url_source: ''
+url_source: 'ublication/icme2023/Supplementary Material_ICME2023.zip'
 url_video: ''
 
 # Featured image
