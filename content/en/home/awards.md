@@ -44,8 +44,8 @@ design:
   <br /> 	"Smart Base" Excellent Student Scholarship of Beijing Electronic Science and Technology Institute & Huawei.
   <br /><br />
 
-- **北京电子科技学院第六届编程能力大赛亚军**
-  <br /> 	Runner-up of Programming Ability Competition of the 6th Beijing Electronic Science and Technology Institute.
+- **北京电子科技学院编程能力大赛亚军**
+  <br /> 	Runner-up of Programming Ability Competition of Beijing Electronic Science and Technology Institute.
   <br /><br />
   
 - **河海大学优秀毕业生**
@@ -56,8 +56,8 @@ design:
   <br /> Outstanding Communist Youth League Member of Hohai University.
   <br /><br />
   
-- **河海大学第十三届新秀盛典冠军**
-  <br /> The Champion of the 13th Freshman Art Competition in Hohai University.
+- **河海大学新秀风采大赛冠军**
+  <br /> The Champion of Freshman Art Competition in Hohai University.
   <br /><br />
   
 
