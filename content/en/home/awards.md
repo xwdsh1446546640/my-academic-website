@@ -28,7 +28,7 @@ design:
   <br /> 	The third prize of China Postgraduate Mathematical Modeling Award.
   <br /><br />
   
-- **全国软件和信息技术专业人才大赛 研究生组C/C++程序设计 北京赛区二等奖**
+- **全国软件和信息技术专业人才大赛 研究生组 C/C++程序设计 北京赛区二等奖**
   <br /> 	The second prize of China Software and Information Technology Professionals Competition (Postgraduate Group C/C++ Programming / Beijing Area).
   <br /><br />
   
