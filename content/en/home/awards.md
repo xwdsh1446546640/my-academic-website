@@ -20,8 +20,8 @@ design:
   columns: '2'
 ---
 
-- **全国密码技术竞赛 (晋级决赛)**
-  <br /> 	China Cryptography Competition (Advanced to the Final).
+- **全国密码技术竞赛三等奖**
+  <br /> 	The third prize of China Cryptography Competition.
   <br /><br />
 
 - **全国研究生数学建模三等奖**
