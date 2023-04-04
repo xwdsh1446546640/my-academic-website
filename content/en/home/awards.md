@@ -32,7 +32,7 @@ design:
   <br /> 	The second prize of China Software and Information Technology Professionals Competition (Postgraduate Group C/C++ Programming / Beijing Area).
   <br /><br />
   
-- **“互联网+” 主赛道&产业赛道 北京赛区铜奖**
+- **“互联网+” 主赛道 & 产业赛道 北京赛区铜奖**
   <br /> 	Bronze Award in “Internet Plus” (Main Track & Industrial Track / Beijing Area)
   <br /><br />
   
