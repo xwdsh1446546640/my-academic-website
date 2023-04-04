@@ -36,12 +36,12 @@ design:
   <br /> 	Bronze Award in “Internet Plus” (Main Track & Industrial Track / Beijing Area)
   <br /><br />
   
-- **北京电子科技学院研究生一等奖学金** 
-  <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
-  <br /><br />
-  
 - **教育部-华为“智能基座”未来之星**
   <br /> 	"Smart Base" Excellent Student Scholarship of Ministry of Education & Huawei.
+  <br /><br />
+  
+- **北京电子科技学院研究生一等奖学金** 
+  <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
   <br /><br />
 
 - **北京电子科技学院编程能力大赛亚军**
