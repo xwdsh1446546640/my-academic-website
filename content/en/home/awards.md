@@ -40,8 +40,8 @@ design:
   <br /> 	First class scholarship for postgraduate students of Beijing Electronic Science and Technology Institute.
   <br /><br />
   
-- **北京电子科技学院-华为“智能基座”优秀学生奖学金**
-  <br /> 	"Smart Base" Excellent Student Scholarship of Beijing Electronic Science and Technology Institute & Huawei.
+- **教育部-华为“智能基座”未来之星**
+  <br /> 	"Smart Base" Excellent Student Scholarship of Ministry of Education & Huawei.
   <br /><br />
 
 - **北京电子科技学院编程能力大赛亚军**
