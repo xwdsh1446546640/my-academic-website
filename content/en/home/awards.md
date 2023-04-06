@@ -36,6 +36,10 @@ design:
   <br /> 	Bronze Award in “Internet Plus” (Main Track & Industrial Track / Beijing Area)
   <br /><br />
   
+- **北京大学生音乐节 器乐（西乐）小合奏 优秀表演奖 作品：《梁祝》**
+  <br /> 	Outstanding Performance Award for Instrumental (Western Music) Ensemble at Beijing University Music Festival. Ensemble work: "Liang Zhu".
+  <br /><br />
+  
 - **教育部-华为“智能基座”未来之星**
   <br /> 	"Smart Base" Excellent Student Scholarship of Ministry of Education & Huawei.
   <br /><br />
