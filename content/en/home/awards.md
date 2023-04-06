@@ -37,7 +37,7 @@ design:
   <br /><br />
   
 - **北京大学生音乐节 器乐（西乐）小合奏 优秀表演奖 作品：《梁祝》**
-  <br /> 	Outstanding Performance Award for Instrumental (Western Music) Ensemble at Beijing University Music Festival. Ensemble work: "Liang Zhu".
+  <br /> 	Outstanding Performance Award for Instrumental (Western Music) Ensemble at Beijing University Music Festival. Ensemble work: "Butterfly Lovers".
   <br /><br />
   
 - **教育部-华为“智能基座”未来之星**
