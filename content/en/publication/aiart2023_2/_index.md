@@ -35,7 +35,7 @@ abstract: 'Althoughth computational aesthetics evaluation has made certain achie
 
 # Summary. An optional shortened abstract.
 summary: 'This study objectively evaluate the beauty of music performance.'
-tags: [Computational Aesthetics, Music Performance Evaluation, Birkhoff’s Measure, Music Features]
+tags: [Aesthetic Dataset with Attributes, Multitasking, External Attribute Features, ECA Channel Attention]
 
 # Display this page in the Featured widget?
 featured: true
