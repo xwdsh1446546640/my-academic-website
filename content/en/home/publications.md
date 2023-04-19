@@ -39,7 +39,7 @@ design:
   #   3 = Card
   #   4 = Citation
   view: 2
-  columns: '2'
+  columns: '4'
 ---
 
 {{% callout note %}}
