@@ -20,16 +20,12 @@ design:
   columns: '2'
 ---
 
-- **全国密码技术竞赛三等奖**
-  <br /> 	The third prize of China Cryptography Competition.
+- **全国密码技术竞赛获奖**
+  <br /> 	Awarded in China Cryptography Competition.
   <br /><br />
 
-- **全国研究生数学建模三等奖**
-  <br /> 	The third prize of China Postgraduate Mathematical Modeling Award.
-  <br /><br />
-  
-- **北京大学生音乐节 器乐（西乐）小合奏 优秀表演奖 作品：《梁祝》**
-  <br /> 	Outstanding Performance Award for Instrumental (Western Music) Ensemble at Beijing University Music Festival. Ensemble work: "Butterfly Lovers".
+- **全国研究生数学建模获奖**
+  <br /> 	Awarded in China Postgraduate Mathematical Modeling Competition.
   <br /><br />
   
 - **教育部-华为“智能基座”未来之星**
