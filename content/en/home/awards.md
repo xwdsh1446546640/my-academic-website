@@ -28,14 +28,6 @@ design:
   <br /> 	The third prize of China Postgraduate Mathematical Modeling Award.
   <br /><br />
   
-- **全国软件和信息技术专业人才大赛 研究生组 C/C++程序设计 北京赛区二等奖**
-  <br /> 	The second prize of China Software and Information Technology Professionals Competition (Postgraduate Group C/C++ Programming / Beijing Area).
-  <br /><br />
-  
-- **“互联网+” 主赛道 & 产业赛道 北京赛区铜奖**
-  <br /> 	Bronze Award in “Internet Plus” (Main Track & Industrial Track / Beijing Area)
-  <br /><br />
-  
 - **北京大学生音乐节 器乐（西乐）小合奏 优秀表演奖 作品：《梁祝》**
   <br /> 	Outstanding Performance Award for Instrumental (Western Music) Ensemble at Beijing University Music Festival. Ensemble work: "Butterfly Lovers".
   <br /><br />
@@ -54,10 +46,6 @@ design:
   
 - **河海大学优秀毕业生**
   <br /> Outstanding Graduate of Hohai University.
-  <br /><br />
-  
-- **河海大学优秀共青团员**
-  <br /> Outstanding Communist Youth League Member of Hohai University.
   <br /><br />
   
 - **河海大学新秀盛典冠军**
