@@ -22,15 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: Beijing Institute for General Artificial Intelligence (BIGAI) (北京通用人工智能研究院)
-    company_url: 'https://www.mybigai.ac.cn/'
-    company_logo: ''
-    location: Beijing
-    date_start: '2022-07-01'
-    date_end: ''
-    description: Engaged in the research of music information retrieval.
-        
+
   - title: Postgraduate
     company: Beijing Electronic Science and Technology Institute (BESTI) (北京电子科技学院)
     company_url: 'https://www.besti.edu.cn/'
@@ -40,6 +32,15 @@ experience:
     date_end: ''
     description: Engaged in research related to computational aesthetics.
 
+  - title: Research Assistant
+    company: Beijing Institute for General Artificial Intelligence (BIGAI) (北京通用人工智能研究院)
+    company_url: 'https://www.mybigai.ac.cn/'
+    company_logo: ''
+    location: Beijing
+    date_start: '2022-07-01'
+    date_end: '2022-08-31'
+    description: Engaged in the research of music information retrieval.
+        
   - title: Technical Engineer 
     company: China Sport Information Center (CSIC) (国家体育总局信息中心)
     company_url: 'https://www.sport.gov.cn/xxzx/'
