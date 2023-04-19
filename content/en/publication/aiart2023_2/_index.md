@@ -1,4 +1,3 @@
-
 ---
 title: "An Order-Complexity Model for Aesthetic Quality Assessment of Homophony Music Performance"
 
