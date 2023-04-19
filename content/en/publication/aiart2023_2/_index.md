@@ -31,7 +31,7 @@ publication_types: ["1"]
 publication: In [*IEEE Workshop on Artificial Intelligence for Art Creation (AIART). IEEE International Conference on Multimedia and Expo Workshop (ICMEW) (CCF-B), Brisbane, 10-14 July, 2023.*]
 publication_short: In *AIART 2023*
 
-abstract: 'Although computational aesthetics evaluation has made certain achievements in many fields, its research of music performance remains to be explored. At present, subjective evaluation is still a ultimate method of music aesthetics research, but it will consume a lot of human and material resources.'
+abstract: 'Although computational aesthetics evaluation has made certain achievements in many fields, its research of music performance remains to be explored. At present, subjective evaluation is still a ultimate method of music aesthetics research, but it will consume a lot of human and material resources. The main contributions of this paper are as follows: Firstly, we put forward an objective aesthetic evaluation method to measure the music performance aesthetic; Secondly, we propose 10 basic music features and 4 aesthetic music features. Experiments show that our method performs well on performance assessment.'
 
 # Summary. An optional shortened abstract.
 summary: 'This study proposes an aesthetic visual qusetion & answering dataset.'
