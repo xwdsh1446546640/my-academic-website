@@ -28,10 +28,6 @@ design:
   <br /> 	Awarded in China Postgraduate Mathematical Modeling Competition.
   <br /><br />
   
-- **全国软件与信息技术专业人才大赛获奖**
-  <br /> 	Awarded in China National Software and Information Technology Competition.
-  <br /><br />
-  
 - **“互联网+”大学生创新创业大赛获奖**
   <br /> 	Awarded in “Internet Plus” College Student Innovation and Entrepreneurship Competition.
   <br /><br />
