@@ -10,7 +10,7 @@ authors:
 - Jinyu Wang
 - Duo Xu
 - Yiqing Rong
-- Shuai Cui
+- Jialin Sun
 
 # Author notes (optional)
 # author_notes:
