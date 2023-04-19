@@ -1,15 +1,16 @@
 ---
-title: "Aesthetic Visual Question Answering of Photographs"
+title: "An Order-Complexity Model for Aesthetic Quality Assessment of Homophony Music Performance"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Xin Jin
-- Yuchen Li
 - admin
-- Xinghui Zhou
-- Hongtao Yang
+- Jinyu Wang
+- Duo Xu
+- Yiqing Rong
+- Shuai Cui
 
 # Author notes (optional)
 # author_notes:
