@@ -69,7 +69,7 @@ highlight_name: true
 Wu Zhou (周武) received the B.S. degree of computer science in [Hohai University](https://en.hhu.edu.cn/) in 2021. 
 He is currently a postgraduate in [Besti Vicory Lab](https://www.victory-lab.net/), Beijing Electronic Science and Technology Institute, tutored by Professor [Xin Jin](https://jinxin.me/) (金鑫). At present, he serves as the leader of the academic & practice department of BESTI postgraduates' union (北京电子科技学院研究生会学术实践部主要负责人). His research mainly includes music information retrieval, computer vision, cryptography and information security. 
 
-🚩 Wu Zhou is about to become a <font color='red'> probationary member of the Communist Party of China (预备党员) </font>.
+🚩 Wu Zhou is about to become a <font color='red'> probationary member of the Communist Party of China (预备党员)</font>.
 
 💻 Wu Zhou once worked as a research assistant in Beijing Institute for General Artificial Intelligence (北京通用人工智能研究院).
 
