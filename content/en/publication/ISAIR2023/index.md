@@ -44,7 +44,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 
-url_pdf: 'publication/isair2022/1.pdf'
+url_pdf: 'publication/ISAIR2023/5.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
