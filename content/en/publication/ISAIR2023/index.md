@@ -35,7 +35,7 @@ publication_short: In *ISAIR 2023*
 abstract: 'Extracting road networks accurately from hyperspectral data using traditional CNN models is challenging due to occlusion, changing lighting conditions, and spectral ambiguity. This study proposes a new model that combines the strengths of the U-net and Transformer architectures to capture both local and long-range features for improved road extraction accuracy and efficiency. The proposed model was evaluated on the AeroRIT hyper-spectral dataset using performance metrics such as OA, MPCA, and MIOU, and compared with traditional CNN models such as U-net. The results show that the proposed model outperforms traditional models, demonstrating its potential for optimization and application in road extraction from hyperspec-tral data. The significance of this research lies in its potential to promote the development of the hyperspectral data analysis field, improve the accuracy of road extraction, and enable practical applications in various fields such as urban planning, traffic management, and environmental monitoring. Further research can optimize the proposed model or combine it with other methods to enhance its accuracy and efficiency for more effective road network ex-traction from hyperspectral data.'
 
 # Summary. An optional shortened abstract.
-summary: 'This study focus on extracting road networks.'
+summary: 'This study focuses on extracting road networks.'
 tags: [Transformer-CNN, Hyperspectral Data, Road Extraction]
 
 # Display this page in the Featured widget?
