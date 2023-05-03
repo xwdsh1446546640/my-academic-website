@@ -74,6 +74,3 @@ slides: ""
 
 ---
 
-{{% callout note %}}
-Wu Zhou is the corresponding author.
-{{% /callout %}}
