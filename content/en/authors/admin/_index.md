@@ -13,7 +13,7 @@ organizations:
 - name: Beijing Electronic Science and Technology Institute (BESTI)
   url: https://www.besti.edu.cn/
 - name: Hohai University (HHU)
-  url: https://en.hhu.edu.cn/
+  url: https://www.hhu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 
