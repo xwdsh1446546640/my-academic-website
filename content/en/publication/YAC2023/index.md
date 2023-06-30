@@ -34,7 +34,7 @@ publication_short: In *YAC 2023 (第38届中国自动化学会青年学术年会
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: 'This paper is a long abstract paper, and it is a report for ICME2023.'
+summary: 'This paper is a long abstract paper, and it is a report for the research in ICME2023 paper.'
 tags: []
 
 # Display this page in the Featured widget?
