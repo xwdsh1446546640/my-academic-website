@@ -48,7 +48,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'publication/ACMMM2023/Supplementary_Material.zip'
+url_source: 'publication/ACMMM2023/Supplementary Material.zip'
 url_video: ''
 
 # Featured image
