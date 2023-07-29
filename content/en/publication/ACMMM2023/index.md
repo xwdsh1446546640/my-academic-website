@@ -27,7 +27,7 @@ publishDate: []
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In [*ACM International Conference on Multimedia (ACM MM) (CCF-A), Ottawa, Oct 29—Nov 05, 2023.*]
+publication: In [*ACM International Conference on Multimedia (ACM MM) (CCF-A), Ottawa, Oct 29—Nov 03, 2023.*]
 publication_short: In *ACM MM 2023*
 
 abstract: 'Computational aesthetic evaluation has made remarkable contribution to visual art works, but its application to music is still rare. Currently, subjective evaluation is still the most effective form of evaluating artistic works. However, subjective evaluation of artistic works will consume a lot of human and material resources. The popular AI generated content (AIGC) tasks nowadays have flooded all industries, and music is no exception. While compared to music produced by humans, AI generated music still sounds mechanical, monotonous, and lacks aesthetic appeal. Due to the lack of music datasets with rating annotations, we have to choose traditional aesthetic equations to objectively measure the beauty of music. In order to improve the quality of AI music generation and further guide computer music production, synthesis, recommendation and other tasks, we use Birkhoff’s aesthetic measure to design a aesthetic model, objectively measuring the aesthetic beauty of music, and form a recommendation list according to the aesthetic feeling of music. Experiments show that our objective aesthetic model and recommendation method are effective.'
