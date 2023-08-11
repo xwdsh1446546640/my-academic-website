@@ -6,7 +6,7 @@ title: "Image Recoloring for Color Blindness Considering Naturalness and Harmony
 # and it will be replaced with their full name and linked to their profile.
 authors:
 
-- Xuying Zhao
+- Xin Jin
 - Yiqing Rong
 - Dongqing Zou
 - admin
