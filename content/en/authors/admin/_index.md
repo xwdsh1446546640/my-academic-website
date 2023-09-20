@@ -71,7 +71,7 @@ He is currently a postgraduate in [Besti Vicory Lab](https://www.victory-lab.net
 
 💻 He once worked in [Beijing Institute for General Artificial Intelligence](https://www.mybigai.ac.cn/) (北京通用人工智能研究院).
 
-🎶 He also has a level 10 amateur violin certificate (业余小提琴十级). He once served as the office director of Hohai University Art Troupe (河海大学大学生艺术团办公室主任).
+🎶 He also has a level 10 amateur violin certificate (业余小提琴十级). He once served as the office director of Hohai University Art Troupe (河海大学大学生艺术团办公室主任) (2018-2019).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV (中文个人简历). {{< /staticref >}}
 
