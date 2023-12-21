@@ -7,7 +7,7 @@ title: "Improving Road Extraction in Hyperspectral Data with Deep Learning Model
 authors:
 
 - Xuying Zhao
-- Zhibo Xin
+- Zhibo Xing
 - Zexiao Zou
 - admin
 - Zhonghui Bian
